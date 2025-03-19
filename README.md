@@ -27,4 +27,4 @@ make
 
 ## Author :black_nib:
 
-- **Mohamed Kartit** [Github](https://github.com/Ayoubghrib) | [X](https://x.com/Wacayoub582Wac)
+- **AYOUB GHRIB** [Github](https://github.com/Ayoubghrib) | [linkedin](https://www.linkedin.com/in/ayoub-gharib-20b06b237/)
