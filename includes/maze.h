@@ -3,7 +3,7 @@
 
 /*
  * File: maze.h
- * Auth: Elysée NIYIBIZI
+ * Auth: AYOUB GHRIB
  * Desc: Header file containing declarations for all functions
  *       used my whole Program.
  */
